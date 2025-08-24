@@ -1,6 +1,6 @@
 Task 1: Print out your name using the letter "O" in ASCII art.
 
-    System.out.println("  OOOOOOOO     OOOOOOOO      OOOOOOO       OOOOOOO     OOOOOOOO");
+    	System.out.println("  OOOOOOOO     OOOOOOOO      OOOOOOO       OOOOOOO     OOOOOOOO");
 		System.out.println("      OO       OO            OOO           OOO         OO      ");
 		System.out.println("      OO       OO             OOO           OOO        OO      ");
 		System.out.println("      OO       OOOOOO          OOO           OOO       OOOOOO  ");
