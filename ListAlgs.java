@@ -68,6 +68,7 @@ public class ListAlgs {
 			if (nums.get(i) == 5)
 			{
 				nums.remove(i);
+				i--;
 			}
 		}
 		return nums;
